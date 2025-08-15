@@ -1,4 +1,4 @@
-# Hi, ich bin Mika – aka @Hirates 👋
+# Hi, ich bin Mika
 
 Ich baue praxisnahe Tools für Live-Sportproduktionen und Automatisierung.  
 Meistens Python + Flask im Backend, etwas JS im Frontend – und viel ❤️ für robuste Abläufe, Observability und Echtzeit-Workflows.
