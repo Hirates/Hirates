@@ -25,12 +25,6 @@ SRT & Live-Streaming-Pipelines (OpenMPTCP) · Slack API · Google Wallet/Passes 
 - Flask-Extensions/Utilities für Admin-Backends
 - Telemetrie-Collector & Dashboards für Streams
 - Kleine, scharfe Tools für Event-Ops (Checklisten, Notifications, Status-Boards)
-
-### 📫 So erreichst du mich …
-- Issue auf diesem Profil/Repo eröffnen
-- LinkedIn: _Link hier einfügen_
-- E-Mail: _Adresse hier einfügen_
-
 ---
 
 ### 🚀 Ausgewählte Arbeiten (Highlights)
